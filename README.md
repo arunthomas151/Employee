@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project configuration
 
 - clone  repository
@@ -29,3 +30,6 @@
   ```php
   php artisan serve
   ```
+- The aplication successfully configured then try to login using the below credetials
+- username : admin@gmail.com
+- password : Admin@1234
